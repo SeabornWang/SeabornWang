@@ -1,61 +1,91 @@
-primary_name: "Your Name"
-secondary_name: ""
-navbar_name: "Your Name"
+primary_name: "Sibo Wang"
+secondary_name: "Seaborn"
+navbar_name: "Sibo Wang"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: MSc Candidate in Vehicle Engineering
+- name: Tongji University
+  logo: /assets/images/badges/tongji.png  # Logo is optional
 
 
-email: "your@email.com"
+email: "sibo.wang.research@gmail.com"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+# gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: SeabornWang
+twitter: Seaborn_himself  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 # linkedin: your-linked-in-id
-# orcid: 0000-0000-0000-0000
+orcid: 0009-0007-7818-5112
 
 short_bio_text_justify: false
 short_bio: >-
+
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    🚗 I am an <strong>MSc candidate in Vehicle Engineering at Tongji University</strong>, advised by Prof. Jun Ma.
+    My research focuses on <strong>Human-AI Interaction</strong>, <strong>trust calibration</strong>, explainable AI,
+    and intelligent in-vehicle systems.
   </p>
+
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    🧑‍🔬 I am particularly interested in how drivers interact with automated vehicles and LLM-based in-vehicle agents
+    in safety-critical driving contexts. My recent work investigates transparency, user trust, takeover behavior,
+    visual attention, cognitive workload, and AI hallucinations in intelligent vehicle systems.
   </p>
+
+  <p>
+    🤖 I am also working with the <strong>Ubiquitous X Lab at HKUST</strong>, where I study
+    <strong>perceived danger in Human-Robot Interaction</strong>, especially how people perceive and respond to
+    potentially unsafe robot behaviors.
+  </p>
+
+  <p>
+    🎓 I am currently applying for <strong>Ph.D. programs for Fall 2027</strong>, with a broad interest in
+    HCI, HAI, HRI and intelligent mobility systems.
+  </p>
+
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: Tongji University
+  logo: /assets/images/badges/tongji.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
+    College of Automotive and Energy Engineering <br/>
+    M.S. in Vehicle Engineering
   date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+- name: Dalian University of Technology
+  logo: /assets/images/badges/dut.png
+  position: >- 
+    School of Mechanical Engineering <br/>
+    B.Eng. in Vehicle Engineering
+  date: Sep. 2020 - Jun. 2024
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: Ubiquitous X Lab, HKUST
+  logo: /assets/images/badges/hkust.png
+  position: Research Intern
+  date: Jun. 2026 - present
+- name: Human-Vehicle Relationship Lab, Shanghai
+  logo: /assets/images/badges/ammi.png
+  position: Research Intern
+  date: Jul. 2024 - Dec. 2025
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: Tongji University Academic Scholarship
+  date: 10/2025
+- name: Excellent Student of Tongji University
+  date: 11/2025
+- name: Excellent Graduate of Liaoning Province
+  date: 06/2024
+- name: Taoli Alumni Scholarship
+  date: 10/2023
+- name: Best Innovation Award, BMW University Students’ Joint Innovation Challenge
+  date: 11/2023
+- name: CASC Aerospace Scholarship
+  date: 10/2022
+- name: National Scholarship
+  date: 10/2021

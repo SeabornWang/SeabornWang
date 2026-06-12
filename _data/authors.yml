@@ -1,22 +1,17 @@
-"Your Name":
+"Sibo Wang":
   bold: true
 
-"Robert White":
-  url: https://www.google.com/?q=Robert+White
+"Wang, S.":
+  name: Sibo Wang
+  bold: true
 
-"Charles Green (MIT)":
-  name: Charles Green
-  url: https://www.google.com/?q=Charles+Green+MIT
+"王思博":
+  name: Sibo Wang
+  bold: true
 
-"Charles Green (Stanford)":
-  name: Charles Green
-  url: https://www.google.com/?q=Charles+Green+Stanford
+"Jun Ma":
+  url: https://www.google.com/search?q=Jun+Ma+Tongji+University
 
-"Garrett Harris":
-  url: https://www.google.com/?q=Garrett+Harris
-
-"James Wang":
-  url: https://www.google.com/?q=James+Wang
-
-"John Doe":
-  url: https://www.google.com/?q=John+Doe
+"Ma, J.":
+  name: Jun Ma
+  url: https://www.google.com/search?q=Jun+Ma+Tongji+University
